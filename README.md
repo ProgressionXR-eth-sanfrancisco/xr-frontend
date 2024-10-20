@@ -34,9 +34,15 @@ Welcome to **ProgressionXR**, where we blend the power of **AI**, **Extended Rea
 
 -   **Sign Explore**: [Code](https://github.com/ProgressionXR-eth-sanfrancisco/xr-frontend/blob/0a9e702d3a353d2383fb6208c717f5f134e06fd7/src/components/health/EndWorkoutButton.tsx#L107)
 
+-   **Vide Reference** : [Here](https://asset.cloudinary.com/dt1dn773q/f88383a3852cf2b6850a80cade05ef1d)
+
+-   **Live Link** [Link](https://xr-frontend-sign-lit.vercel.app)
+
 ## Lit Protocol Integration
 
 -   **Lit Encryption**: [Code](https://github.com/ProgressionXR-eth-sanfrancisco/xr-frontend/blob/12b36b7ca378992c4a3cf58de2f15c78c49ad743/src/hooks/useLitEncryption.tsx#L22)
+
+-   **Live Link** [Link](https://xr-frontend-sign-lit.vercel.app)
 
 ## Dynamic Integration
 
@@ -49,6 +55,8 @@ Welcome to **ProgressionXR**, where we blend the power of **AI**, **Extended Rea
 ## Polygon
 
 -   **Account Client**: [Code](https://github.com/ProgressionXR-eth-sanfrancisco/xr-frontend/blob/0a9e702d3a353d2383fb6208c717f5f134e06fd7/src/components/workout-modal.tsx#L23)
+
+-   **Live Link** [Link](https://xr-frontend-sign-lit.vercel.app)
 
 ## Phala Network
 
